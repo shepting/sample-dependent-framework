@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'TestDependentTwitterSpec'
-  s.version      = '1.0.2'
+  s.version      = '1.0.3'
   s.summary      = 'Test Podspec showing dependency on statically-linked library'
   s.description  = 'Sample library depending on a static library. Should exhibit issues with transitive dependencies.'
   s.license      = 'Apache 2'
